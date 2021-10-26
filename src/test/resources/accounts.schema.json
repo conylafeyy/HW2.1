@@ -4,7 +4,7 @@
   "items": {
     "type": "object",
     "required": [
-      "id",
+      "idd",
       "name",
       "number",
       "balance",
